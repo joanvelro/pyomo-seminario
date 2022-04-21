@@ -6,7 +6,7 @@
 * Resolucion mediante instancia de datos externos
 * Exploración de resultados
 
-@ Jose Angel Velasco (javelascor@indra.es)
+(C) Jose Angel Velasco  (joseangel.velasco@yahoo.es) @joanvelro
 
-(C) Indra Digital Labs | IA - 2021
+
 
